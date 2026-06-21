@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" width="420" height="120" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 360" width="1260" height="360" role="img" aria-labelledby="title desc">
   <title id="title">ACΞNERGY PARTNERS</title>
-  <desc id="desc">ACΞNERGY (Optos 26px) and PARTNERS (Optos 10px) in green #4A8C2F — PARTNERS positioned very close and smaller</desc>
+  <desc id="desc">ACΞNERGY (Optos 78px) and PARTNERS (Optos 30px) in green #4A8C2F — scaled 3× for larger display</desc>
   <style><![CDATA[
-    .main { font-family: "Optos", Arial, Helvetica, sans-serif; font-weight:700; font-size:26px; fill:#4A8C2F; }
-    .sub  { font-family: "Optos", Arial, Helvetica, sans-serif; font-weight:600; font-size:10px; fill:#4A8C2F; letter-spacing:2px; }
+    .main { font-family: "Optos", Arial, Helvetica, sans-serif; font-weight:700; font-size:78px; fill:#4A8C2F; }
+    .sub  { font-family: "Optos", Arial, Helvetica, sans-serif; font-weight:600; font-size:30px; fill:#4A8C2F; letter-spacing:6px; }
   ]]></style>
 
-  <!-- centered horizontally; PARTNERS moved as close as practical beneath ACΞNERGY -->
-  <g transform="translate(210,40)">
+  <!-- centered horizontally; coordinates scaled 3x -->
+  <g transform="translate(630,120)">
     <text class="main" text-anchor="middle" dominant-baseline="middle">ACΞNERGY</text>
   </g>
 
-  <g transform="translate(210,56)">
+  <g transform="translate(630,168)">
     <text class="sub" text-anchor="middle" dominant-baseline="middle">PARTNERS</text>
   </g>
 </svg>
