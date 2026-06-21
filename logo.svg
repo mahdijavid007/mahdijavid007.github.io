@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 140" width="500" height="140" role="img" aria-labelledby="title desc">
+  <title id="title">ACΞNERGY P A R T N E R S</title>
+  <desc id="desc">Logo: ACΞNERGY (Optos, 26px) with P A R T N E R S (Optos, 12px) — color #4A8C2F</desc>
+  <style type="text/css"><![CDATA[
+    .main { font-family: "Optos", Arial, Helvetica, sans-serif; font-weight: 800; font-size: 26px; fill: #4A8C2F; }
+    .sub  { font-family: "Optos", Arial, Helvetica, sans-serif; font-weight: 600; font-size: 12px; fill: #4A8C2F; letter-spacing: 8px; }
+  ]]></style>
+
+  <!-- Main title -->
+  <text class="main" x="250" y="48" text-anchor="middle" dominant-baseline="middle">ACΞNERGY</text>
+
+  <!-- Sub text (spaced letters as provided) -->
+  <text class="sub" x="250" y="95" text-anchor="middle" dominant-baseline="middle">P A R T N E R S</text>
+</svg>
