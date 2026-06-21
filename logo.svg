@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" width="420" height="120" role="img" aria-labelledby="title desc">
-  <title id="title">ACΞNERGY P A R T N E R S</title>
-  <desc id="desc">ACΞNERGY (Optos 26px) and PARTNERS (Optos 10px) in green #4A8C2F — PARTNERS positioned closer and smaller</desc>
+  <title id="title">ACΞNERGY PARTNERS</title>
+  <desc id="desc">ACΞNERGY (Optos 26px) and PARTNERS (Optos 10px) in green #4A8C2F — PARTNERS positioned very close and smaller</desc>
   <style><![CDATA[
     .main { font-family: "Optos", Arial, Helvetica, sans-serif; font-weight:700; font-size:26px; fill:#4A8C2F; }
-    .sub  { font-family: "Optos", Arial, Helvetica, sans-serif; font-weight:600; font-size:10px; fill:#4A8C2F; letter-spacing:4px; }
+    .sub  { font-family: "Optos", Arial, Helvetica, sans-serif; font-weight:600; font-size:10px; fill:#4A8C2F; letter-spacing:2px; }
   ]]></style>
 
-  <!-- centered horizontally; PARTNERS moved closer (smaller y) and reduced size/letter-spacing -->
+  <!-- centered horizontally; PARTNERS moved as close as practical beneath ACΞNERGY -->
   <g transform="translate(210,40)">
     <text class="main" text-anchor="middle" dominant-baseline="middle">ACΞNERGY</text>
   </g>
 
-  <g transform="translate(210,66)">
+  <g transform="translate(210,56)">
     <text class="sub" text-anchor="middle" dominant-baseline="middle">PARTNERS</text>
   </g>
 </svg>
