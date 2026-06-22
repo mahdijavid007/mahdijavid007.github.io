@@ -1,11 +1,11 @@
-# AC Energy Partners — Website
+# ACΞNERGY Partners — Website
 
 ACΞNERGY — Manufacturer Representation • Energy Infrastructure • Market Development
 
 This repository contains the static website for acenergypartners.com (GitHub Pages). The site is a minimal HTML/CSS site with a typographic (SVG) logo.
 
 ## Contents
-- `index.html` — Home page (header, hero, Services, Industries, Why ACENERGY)
+- `index.html` — Home page (header, hero, Services, Industries, Why ACΞNERGY)
 - `about.html` — About page
 - `services.html` — Services & Industries
 - `contact.html` — Contact information
@@ -67,5 +67,5 @@ If you want me to:
 - push these files into a GitHub repo for you — provide `owner/repo` and confirm
 - convert the SVG text to paths or embed the Optos font — say which option
 
-Maintainer: mahdivid007 / AC Energy Partners  
+Maintainer: mahdivid007 / ACΞNERGY Partners  
 Email: info@acenergypartners.com
